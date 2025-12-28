@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=TkDesktop Maker
+Comment=Generate .desktop files easily
+Exec=python tkdesktop.py
+Terminal=false
+Type=Application
+Icon=tkdesktop
+Categories=Utility;
+StartupNotify=true
+
